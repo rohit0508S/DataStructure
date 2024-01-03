@@ -21,35 +21,6 @@ To use this single linked list implementation, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/rohit0508S/single-linked-list-java.git
-   
-Certainly! Below is a simple README.md template for a Single Linked List implementation in Java:
-
-markdown
-Copy code
-# Single Linked List Implementation in Java
-
-This project provides a basic implementation of a single linked list in Java, with essential operations such as insertion, deletion, and traversal.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Example](#example)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-A single linked list is a linear data structure where each element points to the next element in the sequence. It is a fundamental data structure in computer science and is often used in various applications.
-
-## Getting Started
-
-To use this single linked list implementation, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
    git clone https://github.com/your-username/single-linked-list-java.git
 
    
