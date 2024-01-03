@@ -7,7 +7,6 @@ This project provides a basic implementation of a single linked list in Java, wi
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Example](#example)
 - [Contributing](#contributing)
 - [License](#license)
 
