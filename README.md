@@ -26,7 +26,7 @@ To use this single linked list implementation, follow these steps:
    
 2. Open in a Java IDE:
 Open the project in your preferred Java development environment (e.g., IntelliJ IDEA, Eclipse).
-Usage
+## Usage
 
 The LinkedList class provides the following basic operations:
 
@@ -34,8 +34,8 @@ insert(int data): Inserts a new node with the given data at the end of the linke
 delete(int data): Deletes the first occurrence of the node with the given data.
 display(): Displays the elements of the linked list.
 
-Contributing
+## Contributing
 Contributions are welcome! If you have suggestions, bug reports, or want to add new features, please open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
